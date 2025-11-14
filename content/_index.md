@@ -4,8 +4,6 @@ title: "Welcome"
 
 [Blog](/blog/) | [Photography](/photography/)
 
-# Hello — I'm Jared
-
 Welcome to my personal website. I'm a photographer and developer based in [Your City]. This site contains my blog and a portfolio of photographs.
 
 <a id="about"></a>
